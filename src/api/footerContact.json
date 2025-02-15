@@ -1,0 +1,19 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find Us",
+    "details": "Patna, Bihar"
+  },
+
+  {
+    "icon": "IoCallSharp",
+    "title": "Call Us",
+    "details": "9876543210"
+  },
+
+  {
+    "icon": "TbMailPLus",
+    "title": "Mail Us",
+    "details": "contact@gmail.com"
+  }
+]
